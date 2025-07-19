@@ -1,54 +1,66 @@
-<!-- Profile Banner (optional) -->
+<!-- Wavy animated banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:4f46e5&height=180&section=header&text=Hi!%20I'm%20rj%20king👋&fontSize=35&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4b1f,1e90ff,43e97b&height=200&section=header&text=Hey!%20I'm%20rj%20king%20🚀&fontSize=40&fontAlignY=40&animation=twinkling&desc=Welcome+to+my+colorful+space!&descAlign=60&descAlignY=70"/>
 </p>
 
+<!-- Animated typing SVG -->
 <p align="center">
-  <a href="https://github.com/rjking">
-    <img src="https://komarev.com/ghpvc/?username=rjking&style=flat-square&color=blue" alt="profile views"/>
-  </a>
-</p>
-
----
-
-### 👨‍💻 &nbsp;About Me
-
-- 🔭 I’m currently working as a **Website Developer**
-- 🌱 I love coding with **JavaScript, React, Node.js, Firebase**
-- 💡 Always learning new tech and building cool stuff!
-- 🕹️ Fun fact: I love thrilling activities & driving 🚗
-
----
-
-### 🚀 &nbsp;Tech Stack
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-EDD718?logo=javascript&logoColor=fff)
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-
----
-
-### 📈 &nbsp;GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rjking&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjking&theme=radical" height="180"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer+%F0%9F%92%BB;JavaScript+Lover+%F0%9F%A4%97;React+Wizard+%F0%9F%A7%AA;Firebase+Fanboy+%F0%9F%94%A5;Open+Source+Enthusiast+%F0%9F%A7%AA;Let%27s+Connect+and+Build!&center=true&width=700&height=45&duration=2000&pause=800&color=fd267d,43e97b,1e90ff" />
 </p>
 
 ---
 
-### 🌐 &nbsp;Let's Connect
+<p align="center">
+  <img src="https://github.com/rjking/rjking/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=fff)](https://t.me/your_telegram)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff)](https://instagram.com/yourusername)
+---
+
+## 😎 About Me
+
+- 🤹‍♂️ I love **mixing code, colors, and creativity!**
+- 🛠️ Building: fun web projects, bots, and experiments!
+- 🧑‍💻 Learning: new tech, UI tricks, and animations every day.
+- 🎲 Fun fact: I’m a thrill-seeker & love wild rides! 🎢
+
+---
+
+## 🚀 My Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,tailwind,git,figma,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rjking&show_icons=true&theme=tokyonight&border_radius=20&hide_title=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rjking&theme=tokyonight&border_radius=20" height="180"/>
+</p>
+
+---
+
+## ✨ Random Dev Meme
+
+<p align="center">
+  <img src="https://github.com/techytushar/random-meme/raw/main/meme.gif" height="180"/>
+</p>
+
+---
+
+## 🌈 Let's Connect!
+
+<p align="center">
+  <a href="https://t.me/your_telegram" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"></a>
+  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
+  <a href="mailto:your@email.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=9F2FFF&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Thank+you+for+visiting+my+profile!;Let's+build+something+awesome+together!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=1000&color=1e90ff&center=true&vCenter=true&multiline=true&width=700&height=50&lines=Thanks+for+stopping+by!+;Drop+a+star,+let%27s+collaborate!+%F0%9F%92%AF" />
 </p>
